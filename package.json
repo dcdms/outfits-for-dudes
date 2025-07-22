@@ -1,0 +1,23 @@
+{
+  "name": "men-c",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "start": "concurrently \"live-server public\" \"bun run build -- --watch\"",
+    "build": "tailwindcss -i styles/globals.css -o public/_build/styles/globals.css --minify"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "2.1.2",
+    "@swc/cli": "^0.7.8",
+    "@swc/core": "^1.13.1",
+    "@tailwindcss/cli": "^4.1.11",
+    "@types/bun": "latest",
+    "concurrently": "^9.2.0",
+    "live-server": "^1.2.2",
+    "tailwindcss": "^4.1.11"
+  },
+  "peerDependencies": {
+    "typescript": "^5.8.3"
+  }
+}

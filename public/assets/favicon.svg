@@ -1,0 +1,27 @@
+<svg
+      viewBox="20 54.167 160 91.667"
+      height="48"
+      width="48"
+      xmlns="http://www.w3.org/2000/svg"
+      fill="oklch(58.5% 0.233 277.117)"
+    >
+      <path
+        d="M20 54.167v91.667c22.364-1.742 40-21.597 40-45.833 0-24.238-17.636-44.092-40-45.834z"
+        clip-rule="evenodd"
+        fill-rule="evenodd"
+      ></path>
+      <path
+        d="M100 54.167v91.667c22.364-1.742 40-21.597 40-45.833 0-24.238-17.636-44.092-40-45.834z"
+        clip-rule="evenodd"
+        fill-rule="evenodd"
+      ></path>
+      <path
+        d="M140 54.167v91.667c22.364-1.742 40-21.597 40-45.833 0-24.238-17.636-44.092-40-45.834z"
+        clip-rule="evenodd"
+        fill-rule="evenodd"
+      ></path>
+      <path
+        d="M60 54.167v91.667c22.364-1.742 40-21.597 40-45.833 0-24.238-17.636-44.092-40-45.834z"
+        clip-rule="evenodd"
+        fill-rule="evenodd"
+></path></svg>
